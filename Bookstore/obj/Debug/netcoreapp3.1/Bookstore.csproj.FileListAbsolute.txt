@@ -1,0 +1,530 @@
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.AssemblyReference.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfoInputs.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CoreCompileInputs.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.MvcApplicationPartsAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.deps.json
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.json
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.dev.json
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/staticwebassets/Bookstore.StaticWebAssets.Manifest.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.input.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.output.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorCoreGenerate.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.genruntimeconfig.cache
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CopyComplete
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Bookstore/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.deps.json
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.json
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.dev.json
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.AssemblyReference.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfoInputs.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CoreCompileInputs.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.MvcApplicationPartsAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/staticwebassets/Bookstore.StaticWebAssets.Manifest.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.input.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.output.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorCoreGenerate.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CopyComplete
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.genruntimeconfig.cache
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Types/Default.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Buy.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_BuyLayout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/libman.json
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.deps.json
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.json
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.dev.json
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfoInputs.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CoreCompileInputs.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.MvcApplicationPartsAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/staticwebassets/Bookstore.StaticWebAssets.Manifest.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.input.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.output.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorCoreGenerate.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Buy.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_BuyLayout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Types/Default.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CopyComplete
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.genruntimeconfig.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.AssemblyReference.cache
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Buy/Checkout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/BuyCompleted.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission8 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/BasketSummary/Default.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/libman.json
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.deps.json
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.json
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.dev.json
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.AssemblyReference.cache
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfoInputs.cache
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CoreCompileInputs.cache
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.MvcApplicationPartsAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/staticwebassets/Bookstore.StaticWebAssets.Manifest.cache
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.input.cache
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.output.cache
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorCoreGenerate.cache
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Buy.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/BuyCompleted.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_BuyLayout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Buy/Checkout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/BasketSummary/Default.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Types/Default.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CopyComplete
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Mission9 copy/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.genruntimeconfig.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/libman.json
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.deps.json
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.json
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.dev.json
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.AssemblyReference.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfoInputs.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CoreCompileInputs.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.MvcApplicationPartsAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/staticwebassets/Bookstore.StaticWebAssets.Manifest.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.input.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.output.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorCoreGenerate.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Buy.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/BuyCompleted.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_BuyLayout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Buy/Checkout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/BasketSummary/Default.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Types/Default.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CopyComplete
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.genruntimeconfig.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorComponent.input.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Books.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Buys.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorComponent.output.cache
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Books.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Buys.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Index.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminLayout.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Routed.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/_imports.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminLayout.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Routed.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/_imports.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/BuyTable.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/BuyTable.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Details.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Details.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Editor.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission10/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Editor.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/libman.json
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.deps.json
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.json
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.runtimeconfig.dev.json
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.AssemblyReference.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfoInputs.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.AssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CoreCompileInputs.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.MvcApplicationPartsAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorComponent.input.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/AdminLayout.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Books.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Buys.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/BuyTable.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Details.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Editor.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Routed.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/_imports.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorComponent.output.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/RazorDeclaration/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.input.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.TagHelpers.output.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorCoreGenerate.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminLayout.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Books.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Buys.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/BuyTable.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Details.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Editor.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Routed.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/_imports.razor.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Index.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Buy.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/BuyCompleted.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_BuyLayout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Buy/Checkout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/BasketSummary/Default.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Types/Default.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/staticwebassets/Bookstore.StaticWebAssets.Manifest.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.RazorTargetAssemblyInfo.cs
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.Views.pdb
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.csproj.CopyComplete
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.pdb
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Bookstore.genruntimeconfig.cache
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/benjaminlee/Documents/IS413/Mission 11/Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
